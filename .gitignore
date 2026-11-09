@@ -1,3 +1,16 @@
-*.zip
+# 构建产物
+build/
+*.apk
+*.apk.idsig
+magisk/*.zip
+
+# 签名密钥（build.py 会自动生成 debug.keystore）
+*.keystore
+*.jks
+
+# 系统/编辑器
 .DS_Store
 Thumbs.db
+.idea/
+.gradle/
+*.log

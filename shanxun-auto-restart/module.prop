@@ -1,6 +1,0 @@
-id=shanxun-auto-restart
-name=闪讯定时自动重启
-version=v1.0
-versionCode=1
-author=Claude
-description=闪讯(Wenet)掉线自动重启守护模块，支持定时重启和掉线检测

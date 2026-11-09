@@ -1,0 +1,6 @@
+id=sxguard
+name=闪讯守护自启
+version=1.0
+versionCode=1
+author=LCS
+description=开机用 root 拉起 com.lcs.sx 守护服务，并在进程被杀后 60s 内自动复活（绕过 MIUI 自启动限制）。
